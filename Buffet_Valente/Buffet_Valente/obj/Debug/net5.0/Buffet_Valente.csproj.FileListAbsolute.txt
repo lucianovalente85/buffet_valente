@@ -42,3 +42,7 @@ C:\Luciano programas\PWA\2021\buffet_valente\Buffet_Valente\Buffet_Valente\obj\D
 C:\Luciano programas\PWA\2021\buffet_valente\Buffet_Valente\Buffet_Valente\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
 C:\Luciano programas\PWA\2021\buffet_valente\Buffet_Valente\Buffet_Valente\obj\Debug\net5.0\Razor\Views\Home\Register.cshtml.g.cs
 C:\Luciano programas\PWA\2021\buffet_valente\Buffet_Valente\Buffet_Valente\obj\Debug\net5.0\Razor\Views\Home\TermsOfUse.cshtml.g.cs
+C:\Luciano programas\PWA\2021\buffet_valente\Buffet_Valente\Buffet_Valente\obj\Debug\net5.0\Razor\Views\User\_Layout.cshtml.g.cs
+C:\Luciano programas\PWA\2021\buffet_valente\Buffet_Valente\Buffet_Valente\obj\Debug\net5.0\Razor\Views\User\_ViewStart.cshtml.g.cs
+C:\Luciano programas\PWA\2021\buffet_valente\Buffet_Valente\Buffet_Valente\obj\Debug\net5.0\Razor\Views\User\Help.cshtml.g.cs
+C:\Luciano programas\PWA\2021\buffet_valente\Buffet_Valente\Buffet_Valente\obj\Debug\net5.0\Razor\Views\User\UserPanel.cshtml.g.cs
